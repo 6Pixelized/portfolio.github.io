@@ -3,24 +3,24 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tristen Hogue
-    tagline: Enterprise Solutions Manager
+    name: Lorem Ipsum
+    tagline: Account Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tristen@hogue.io
-    phone: (928) 216-1530
-    website: #tristenhogue.me #do not add http://
-    linkedin: trhogue
+    email: example@example.com
+    phone: (555) 555-5555
+    website: #do not add http://
+    linkedin:
     github: 
     gitlab:
     bitbucket:
     twitter:
-    cv: TristenHogueResume.pdf
+    cv: Resume.pdf
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,153 +28,80 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+      - idiom: Spanish
+        level: Second
 
     interests:
-      - item: Aviation
+      - item: Painting
         link:
 
-      - item: Motorcycles
+      - item: Long Walks on the Beach
         link:
 
-      - item: Racing Drones
-        link:
-        
-      - item: DIY Electronics Projects
+      - item: Coronavirus
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-     I have a diverse set of progressive experience in digital marketing solutions, 
-     technology troubleshooting, and customer service. Recognized for my wide-ranging 
-     technological expertise, I have experience working with Google Analytics, Unix, Linux, 
-     HTML, CSS, and JavaScript.  Much of my success is attributable to my ability to enhance 
-     team productivity and consistently execute on targeted deliverables in a deadline-centric 
-     environment.  I have spent my entire career cultivated relationships with clients and 
-     performing comprehensive needs assessments in order to maximize customer satisfaction 
-     and revenue retention.
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies tincidunt risus, 
+     vel interdum nisi aliquet eget. Vestibulum ante ipsum primis in faucibus orci luctus et 
+     ultrices posuere cubilia Curae; Suspendisse sit amet varius nunc. Aliquam leo ipsum, volutpat 
+     ut est vitae, scelerisque tempor massa. Quisque magna nunc, pulvinar eget consequat eu, 
+     pretium a nibh. Aenean vitae mi a dolor lobortis interdum ut ut ante. In hac habitasse 
+     platea dictumst. Etiam accumsan orci eget quam bibendum rhoncus. Vestibulum ante ipsum 
+     primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur tincidunt accumsan 
+     tellus eu volutpat. Nunc ut feugiat ante. Sed vitae fringilla tortor.
 
 education:
-    - degree: Associates in Computer Science
-      university: Mesa Community College
-      time: January 2016
-      details:
-        
+    - degree: Associates in Corona Science
+      university: Rona Community College
+      time: January 2020
+      details: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 experiences:
-    - role: Enterprise Solutions Manager
-      time: Jul 2019 - Present
-      company: ZipRecruiter
+    - role: Coronavirus
+      time: Dec 2019 - Present
+      company: Rona Enterprises
       details: |        
-        ❖	Manage enterprise performance marketing recruitment campaigns
+        ❖	Spread to 199 countries
         
-        ❖	Provide strategic support to sales representatives
+        ❖	Kill 29,957 people
         
-        ▪	Identify key areas of campaign improvement
+        ▪	Infect 645,000 people
         
-        ▪	Conduct quarterly business reviews
-        
-        ▪	Ensure campaign success by tracking KPI's and analyzing campaign data
 
-    - role: Paid Media Account Manager Supervisor
-      time: Nov 2017 to July 2019
+    - role: Arizona Governer
+      time: 2019 to Present
       company: BizIQ
       details: |
-        ❖ **Spearheaded the implementation of new protocols** and an enhanced quality assurance process.
+        ❖ **Absolutely screw over an entire state** during the worst epidemic the US has ever seen.
         
-        ❖ **Reduced cancelation rates by 10%** within the first 90 days of being promoted to supervisor.
+        ❖ **Cut funding** to arguably the best city in the state.
         
-        ▪ Reported to Director of Marketing and company owners; supervised Paid Media Account Managers.
-        
-        ▪ Facilitated the optimization of Google, Facebook, and Bing Ads campaigns alongside team members,
-        other paid search solutions and the management of social media campaigns.
-        
-        ▪ Responsible for onboarding new clients, following up regularly, and retaining existing account revenue.
-        
-        ▪ Established weekly, monthly, and quarterly objectives with the goal of longterm department growth.
-        
-        ▪ Frequently evaluated on metrics such as cancel rates, QA issue percentages, and follow-up reach percentages.
-
-    - role: Tier 1 Mac+ Advisor
-      time: Mar 2017 to November 2017
-      company: Kelly Services Global - Apple Care
-      details: |
-        ❖ **Quickly promoted to Tier 1 Mac+** Advisor from an iOS Advisor within a three-month period.
-
-        
-        ❖ **Recognized with a Best Call Quality Award** for outstanding customer service.
-        
-        ▪ Provided full-range support and troubleshooting for all Macintosh products and Apple mobile devices.
-        
-        ▪ Strengthened customer service skills, problem solving, and conflict resolution over the phone.
-        
-        ▪ Performance was routinely audited based on call length, call quality, and escalation percentage.
-
-    - role: Team Lead
-      time: May 2016 to Feb 2017
-      company: ProctorU
-      details: |
-        
-        ❖ **Promoted to "Blue Shirt" Proctor within two months**; tasked with more advanced institutions and exams.
-        
-        ▪ Initially hired as a regular proctor that would proctor exams for simple schools and institutions.
-        
-        ▪ Developed proficiency with navigating customers through complex, multi-step processes.
-        
-        ▪ Left this position in February 2017 when The ProctorU location in Chandler, Arizona permanently closed.
-
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
-#    assignments:
-#      #- title: Velocity
-#      #  link: "#hook"
-#      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-recommendations:
-    title: Eric King
-    top: |
-      this is a test
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Pay Per Click (PPC) Advertising
-        level: 90%
+      - name: Killing people
+        level: 5%
         
-      - name: Google Analytics
-        level: 90%
+      - name: Infecting People
+        level: 40%
         
-      - name: Customer Service
-        level: 90%
+      - name: Sneak
+        level: 100%
         
-      - name: HTML
-        level: 80%
+      - name: Mutating
+        level: 30%
         
-      - name: Javascript
-        level: 80%
-        
-      - name: Search Engine Optimization (SEO)
-        level: 80%
-        
-      - name: Leadership
-        level: 65%
-        
-      - name: Business Development
-        level: 65%
-        
-      - name: SQL
-        level: 60%
-
 footer: >
     
